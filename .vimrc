@@ -24,3 +24,5 @@ let java_ignore_javadoc=1
 let java_highlight_java_lan_ids=1
 let java_highlight_functions="style"
 let java_minlines=150
+
+color desert
