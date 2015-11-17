@@ -14,3 +14,5 @@ function create_git_repo(){
     chgrp -R cs_marinov *
     git config core.sharedRepository true
 }
+
+source ~/.bash_aliases

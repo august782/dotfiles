@@ -8,3 +8,4 @@ alias cs427='ssh awshi2@fa15-cs427-002.cs.illinois.edu'
 # Commands
 alias sc='screen -e"z" -D -R'
 alias vim='vim -o'
+alias svn='svn --no-auth-cache'
