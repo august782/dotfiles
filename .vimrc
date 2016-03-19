@@ -26,3 +26,6 @@ let java_highlight_functions="style"
 let java_minlines=150
 
 color desert
+
+set visualbell
+set t_vb=
