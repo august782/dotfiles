@@ -15,6 +15,8 @@ set iskeyword-=_
 autocmd BufRead *.py set smartindent cinwords=if,elif,else,for,while,try,except,finally,def,class,with
 autocmd BufWritePre *.py normal m`:%s/\s\+$//e``
 
+autocmd BufRead,BufNewFile *.tex setlocal textwidth=70
+
 let java_comment_strings=1
 let java_highlight_java_lang_ids=1
 let java_mark_braces_in_parens_as_errors=1
