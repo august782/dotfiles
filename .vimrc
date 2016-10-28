@@ -31,3 +31,5 @@ color desert
 
 set visualbell
 set t_vb=
+
+set background=light
